@@ -1,0 +1,131 @@
+pre.highlight {
+    padding: 10px;
+    background: #1E1E1E;
+    border: #5E5E5E solid 1px;
+}
+
+.highlighter-rouge {
+    font-size: 1.2em;
+}
+
+code > .hll {
+    background-color: #49483e;
+  }
+  code > .c {
+    color: #a8a38d;
+  }
+  code > .err {
+    color: #960050;
+    background-color: #1e0010;
+  }
+  code > .k {
+    color: #66d9ef;
+  }
+  code > .l {
+    color: #ae81ff;
+  }
+  code > .n {
+    color: #f8f8f2;
+  }
+  code > .o {
+    color: #f92672;
+  }
+  code > .p {
+    color: #f8f8f2;
+  }
+  code > .cm, code > .cp, code > .c1, code > .cs {
+    color: #a8a38d;
+  }
+  code > .ge {
+    font-style: italic;
+  }
+  code > .gs {
+    font-weight: bold;
+  }
+  code > .kc, code > .kd {
+    color: #66d9ef;
+  }
+  code > .kn {
+    color: #f92672;
+  }
+  code > .kp, code > .kr, code > .kt {
+    color: #66d9ef;
+  }
+  code > .ld {
+    color: #e6db74;
+  }
+  code > .m {
+    color: #ae81ff;
+  }
+  code > .s {
+    color: #e6db74;
+  }
+  code > .na {
+    color: #a6e22e;
+  }
+  code > .nb {
+    color: #f8f8f2;
+  }
+  code > .nc {
+    color: #a6e22e;
+  }
+  code > .no {
+    color: #66d9ef;
+  }
+  code > .nd {
+    color: #a6e22e;
+  }
+  code > .ni {
+    color: #f8f8f2;
+  }
+  code > .ne, code > .nf {
+    color: #a6e22e;
+  }
+  code > .nl, code > .nn {
+    color: #f8f8f2;
+  }
+  code > .nx {
+    color: #a6e22e;
+  }
+  code > .py {
+    color: #f8f8f2;
+  }
+  code > .nt {
+    color: #f92672;
+  }
+  code > .nv {
+    color: #f8f8f2;
+  }
+  code > .ow {
+    color: #f92672;
+  }
+  code > .w {
+    color: #f8f8f2;
+  }
+  code > .mf, code > .mh, code > .mi, code > .mo {
+    color: #ae81ff;
+  }
+  code > .sb, code > .sc, code > .sd, code > .s2 {
+    color: #e6db74;
+  }
+  code > .se {
+    color: #ae81ff;
+  }
+  code > .sh, code > .si, code > .sx, code > .sr, code > .s1, code > .ss {
+    color: #e6db74;
+  }
+  code > .bp, code > .vc, code > .vg, code > .vi {
+    color: #f8f8f2;
+  }
+  code > .il {
+    color: #ae81ff;
+  }
+  code > .gu {
+    color: #75715e;
+  }
+  code > .gd {
+    color: #f92672;
+  }
+  code > .gi {
+    color: #a6e22e;
+  }
