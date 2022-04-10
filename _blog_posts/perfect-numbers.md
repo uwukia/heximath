@@ -8,7 +8,7 @@ month: 4
 day: 13
 ---
 
-We've [already talked](/posts/prime-intro) about what it means for a number to be divisible by
+We've [already talked]({{ site.url }}{{ site.baseurl }}/posts/prime-intro) about what it means for a number to be divisible by
 another. 12 is divisible by 1, 2, 4, and itself, but not divisible by 3, 5, 10, and so on.
 
 When we look at the set of numbers that divide some other number, we call them **divisors**, or
@@ -125,7 +125,7 @@ A perfect number has the form $$2^{p-1}(2^p - 1)$$, where $$p$$ is a prime numbe
 the result is $$10$$, which we'll ignore for this proof. So we assume $$p > 2$$, meaning $$p$$
 is an odd prime. In any case, it's an odd number.
 
-Here's where [modular arithmetic](/posts/modular-intro) comes into play, so get ready!
+Here's where [modular arithmetic]({{ site.url }}{{ site.baseurl }}/posts/modular-intro) comes into play, so get ready!
 
 Since $$p$$ is odd, we have that $$p \equiv 1 \pmod{2}$$, and therefore, we can rewrite $$p$$ as
 $$p = 2n + 1$$ for some integer $$n$$.

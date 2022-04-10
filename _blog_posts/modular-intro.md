@@ -8,7 +8,7 @@ month: 4
 day: 12
 ---
 
-My last blog post was about [prime numbers](/posts/prime-intro), and one of the things I
+My last blog post was about [prime numbers]({{ site.url }}{{ site.baseurl }}/posts/prime-intro), and one of the things I
 mentioned is that all prime numbers above 3 are of the form $$10k+1$$ or $$10k+5$$.
 There are multiple ways to rephrase that.
 
