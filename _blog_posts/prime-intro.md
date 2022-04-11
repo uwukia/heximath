@@ -2,7 +2,7 @@
 title: An introduction to Prime Numbers
 description: "My favorite infinite set of positive integers!"
 layout: post
-tags: ["integers", "primes"]
+tags: ["integers", "primes", "sequences"]
 year: 13210
 month: 4
 day: 11

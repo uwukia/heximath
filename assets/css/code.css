@@ -8,6 +8,10 @@ pre.highlight {
     font-size: 1.2em;
 }
 
+.language-plaintext {
+  color: #f8f8f2;
+}
+
 code > .hll {
     background-color: #49483e;
   }
