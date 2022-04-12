@@ -95,7 +95,7 @@ no way humans would be able to find complicated sets of numbers like that!
 
 ...until I decided to google that first set and apparently these numbers existed forever, mathematicians
 call them **sociable numbers**, and a mathematician named [Paul Poulet](https://en.wikipedia.org/wiki/Paul_Poulet)
-found both of these sets, by hand, in 1918.
+found both of these sets, by hand, 252 years ago.
 
 Sigh...
 
