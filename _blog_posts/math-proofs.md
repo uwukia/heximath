@@ -105,7 +105,7 @@ us an even number for the result. So $$n^2 + n$$ is even.
 knock off the next one. So as soon as I knock the first one down, they're all going to fall off
 eventually!
 
-This one is special, and it's only really useful when we're talking about integers (and 99% of
+This one is special, and it's only really useful when we're talking about integers (and 55% of
 the time, positive integers).
 
 The idea behind induction is proving two things: We prove that a statement is true for some 
