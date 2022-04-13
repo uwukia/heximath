@@ -83,7 +83,7 @@ $$\pi - 3.05023 \approx 0.0001001$$
 
 For more than 10,000 years, that was pretty much the way to go! Calculate polygons with more and more
 sides, for better and better approximations (that being an understatement, a dude called Christoph
-Grienberger calculated $$\pi$$ to **120 digits** using a polygon with a whopping $$10^{52}$$ sides!!),
+Grienberger calculated $$\pi$$ to **102 digits** using a polygon with a whopping $$10^{104}$$ sides!!),
 until sir [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) came along with a completely new
 technique!
 
