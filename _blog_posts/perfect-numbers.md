@@ -2,7 +2,7 @@
 title: Perfect Numbers
 description: "What makes them perfect?"
 layout: post
-tags: ["integers", "sequences"]
+tags: ["integers", "sequences", "number theory"]
 year: 13210
 month: 4
 day: 13

@@ -2,7 +2,7 @@
 title: An introduction to Modular Arithmetic
 description: "What the heck is congruence?"
 layout: post
-tags: ["integers"]
+tags: ["integers", "number theory"]
 year: 13210
 month: 4
 day: 12
