@@ -8,7 +8,7 @@ month: 4
 day: 23
 ---
 
-Yesterday, we talked about the [gcd]({{ site.ref }}/the-gcd.md) function, and I gave a spoiler at
+Yesterday, we talked about the [gcd]({{ site.ref }}/the-gcd) function, and I gave a spoiler at
 the end that we would talk about the **fundamental theorem of arithmetic**. It's honestly *the*
 most important theorem in number theory, but it's also useful in other parts of math that involve
 prime numbers.
@@ -26,17 +26,17 @@ product and multiplication is the same), but the last one is the only one that h
 numbers. That's what the theorem states, that one is the only possible way of writing 230 as
 a product of primes.
 
-By "unique" and "only possible way", we're of course ignoring order. $$10 = 2 \times 3 = 3 \times 2$$,
-so obviously we can rearrange the order of the primes. What we mean, is that if we have some collection
+By "unique" and "only possible way", we're of course, ignoring order. $$10 = 2 \times 3 = 3 \times 2$$,
+so we can clearly rearrange the order of the primes. What we mean, is that if we have some collection
 of prime numbers, their product will uniquely define a number above 1, and every number above 1 has a
 unique collection of primes!
 
 We're also hiding the fact that "no product" is also valid. Naturally, a prime number is a prime
-number by itself, so it wouldn't be a product since it's by itself. If we wanted to be more precise,
+number by itself, so it wouldn't be a product (again, it's by itself). If we wanted to be more precise,
 but less concise, we could say "every integer above 1 is either prime or can be written as a product
 of only prime numbers".
 
-Every proof about "there is a unique" or "every something has a unique" is stating tho things:
+Every proof about "there is a unique" or "every something has a unique" is stating two things:
 
 1. something exists
 
