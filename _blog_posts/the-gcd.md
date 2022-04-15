@@ -40,10 +40,10 @@ but it's not the *greatest* because both are also divisible by 4.
 
 In the mathematical language, we can write a definition of the gcd below:
 
-$$\gcd(a,b) = \max\{ n \in \mathbb{Z} : n | a \land n | b \}$$
+$$\gcd(a,b) = \max\{ n \in \mathbb{Z} : n \mid a \land n \mid b \}$$
 
 First we take the set of all common divisors of $$a$$ and $$b$$, and the GCD will be the biggest
-value in that set, that's what the $$\max$$ function is for. The "bar" in $$n|a$$ means "n is
+value in that set, that's what the $$\max$$ function is for. The "bar" in $$n \mid a$$ means "n is
 divisible by a", and $$\land$$ is the logical symbol for "and". So that formula up there can be
 read, out loud, as "the gcd of a and b is the maximum of the set of all integers n such that
 n divides a and n divides b".
@@ -66,7 +66,7 @@ because any multiple of x is divisible by x. The following theorem requires a bi
 
 $$\gcd(a + nb, b) = \gcd(a, b)$$
 
-If $$d = \gcd(a+nb, b)$$, it follows that $$d | (a+nb)$$ and $$d | b$$, in other words,
+If $$d = \gcd(a+nb, b)$$, it follows that $$d \mid (a+nb)$$ and $$d \mid b$$, in other words,
 $$a+nb = xd$$ and $$b = yd$$ for some x and some y. However, we can substitute $$yd$$ for
 $$b$$ in the first equality:
 
